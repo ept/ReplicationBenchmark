@@ -1,0 +1,11 @@
+{
+  "name": "insert-interleaving",
+  "version": "0.0.1",
+  "main": "lseq-test.js",
+  "license": "GPL-3.0-or-later",
+  "dependencies": {
+    "lodash.merge": "^4.6.1",
+    "lseqtree": "^1.0.0"
+  },
+  "devDependencies": {}
+}
